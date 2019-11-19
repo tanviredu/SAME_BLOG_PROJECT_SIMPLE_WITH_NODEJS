@@ -1,2 +1,1 @@
-# SAME_BLOG_PROJECT_SIMPLE_WITH_NODEJS
-SAME_BLOG_PROJECT_SIMPLE_WITH_NODEJS
+# https://vegibit.com/node-js-blog-tutorial/
