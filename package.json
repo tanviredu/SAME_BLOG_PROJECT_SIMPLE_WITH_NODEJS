@@ -1,0 +1,19 @@
+{
+  "name": "same_blog_project_simple_with_nodejs",
+  "version": "1.0.0",
+  "description": "SAME_BLOG_PROJECT_SIMPLE_WITH_NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanviredu/SAME_BLOG_PROJECT_SIMPLE_WITH_NODEJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanviredu/SAME_BLOG_PROJECT_SIMPLE_WITH_NODEJS/issues"
+  },
+  "homepage": "https://github.com/tanviredu/SAME_BLOG_PROJECT_SIMPLE_WITH_NODEJS#readme"
+}
